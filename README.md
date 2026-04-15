@@ -51,6 +51,8 @@ This app provides a simple and scalable solution to manage daily operations.
 
 ## ⚙️ Installation
 
+
+
 ```bash
 git clone https://github.com/orta-tech/barbersistema.github.io.git
 cd barbersistema.github.io
